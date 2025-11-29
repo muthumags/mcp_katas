@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+
+# Virtual environments
+.venv/
+env/
+venv/
+.idea
+.idea/
+# UV package manager cache
+.uvcache/
+.uv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.pid
+*.tmp
+
+# Byte-compiled & packaging artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter artifacts (if any future use)
+.ipynb_checkpoints/
